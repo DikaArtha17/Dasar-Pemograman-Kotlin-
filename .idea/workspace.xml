@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Comment.kt" afterDir="false" />
-    </list>
+    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CommentKt">
+  <component name="RunManager" selected="Kotlin.VariabelKt">
     <configuration name="CommentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -58,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="DasarPemogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.CommentKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAppKt" />
@@ -117,13 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725339604181</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Comment.kt">
+      <created>1725340293777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340293777</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stater Project" />
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Literal.kt" />
+    <MESSAGE value="Add Comment.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Comment.kt" />
   </component>
 </project>
