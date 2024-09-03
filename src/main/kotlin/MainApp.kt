@@ -1,3 +1,3 @@
 fun main() {
-    print("Hello, saya sedang belajar Pemograman kotlin")
+    print("Hello, ini programn pertama saya di kotlin")
 }
