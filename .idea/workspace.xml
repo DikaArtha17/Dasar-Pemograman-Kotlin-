@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constantsLiteral.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/floatingPoint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/floatingPoint.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/underscoreDalamLiteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
-    <configuration name="CommentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommentKt" />
-      <module name="DasarPemogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.UnderscoreDalamLiteralKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -66,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnderscoreDalamLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreDalamLiteralKt" />
+      <module name="DasarPemogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VariabelKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.FloatingPointKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.CommentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725346791898</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add constantsLiteral.kt">
+      <created>1725347324458</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347324458</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +194,7 @@
     <MESSAGE value="Add valval.kt" />
     <MESSAGE value="Add TipeData.kt" />
     <MESSAGE value="Add floatingPoint.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add floatingPoint.kt" />
+    <MESSAGE value="Add constantsLiteral.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add constantsLiteral.kt" />
   </component>
 </project>
