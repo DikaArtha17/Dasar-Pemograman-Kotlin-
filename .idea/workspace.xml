@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RepresentasiKt">
+  <component name="RunManager" selected="Kotlin.KonversiEksplisitKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -51,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarPemogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.FloatingPointKt" />
-        <item itemvalue="Kotlin.TipeDataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725347834377</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Representasi.kt">
+      <created>1725348267362</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725348267362</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +210,7 @@
     <MESSAGE value="Add floatingPoint.kt" />
     <MESSAGE value="Add constantsLiteral.kt" />
     <MESSAGE value="Add underscoreDalamLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add underscoreDalamLiteral.kt" />
+    <MESSAGE value="Add Representasi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
   </component>
 </project>
