@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BooleanTrueOrFalse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringArrayofCharacterKt">
+  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
     <configuration name="BooleanTrueOrFalseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanTrueOrFalseKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -47,13 +44,6 @@
     </configuration>
     <configuration name="CharacterCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharacterCharKt" />
-      <module name="DasarPemogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
+      <module name="DasarPemogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.StringArrayofCharacterKt" />
         <item itemvalue="Kotlin.BooleanTrueOrFalseKt" />
         <item itemvalue="Kotlin.KonversiEksplisitPadaCharKt" />
         <item itemvalue="Kotlin.CharacterCharKt" />
-        <item itemvalue="Kotlin.KonversiEksplisitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725349940332</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add BooleanTrueOrFalse.kt.kt">
+      <created>1725821441899</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725821441899</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add stringArrayofCharacter.kt">
+      <created>1725821688053</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725821688053</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +247,8 @@
     <MESSAGE value="Add KonversiEksplisit.kt" />
     <MESSAGE value="Add CharacterChar.kt" />
     <MESSAGE value="Add KonversiEksplisitPadaChar.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add KonversiEksplisitPadaChar.kt" />
+    <MESSAGE value="Add BooleanTrueOrFalse.kt.kt" />
+    <MESSAGE value="Add stringArrayofCharacter.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add stringArrayofCharacter.kt" />
   </component>
 </project>
