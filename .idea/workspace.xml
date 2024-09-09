@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramSandiMorse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramKalkulatorSederhana.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ProgramSandiMorseKt">
+  <component name="RunManager" selected="Kotlin.ProgramKalkulatorSederhanaKt">
     <configuration name="FungsiAnggotapadaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiAnggotapadaStringKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -59,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgramKalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramKalkulatorSederhanaKt" />
+      <module name="DasarPemogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProgramSandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramSandiMorseKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -66,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
-      <module name="DasarPemogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProgramKalkulatorSederhanaKt" />
         <item itemvalue="Kotlin.ProgramSandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.FungsiAnggotapadaStringKt" />
-        <item itemvalue="Kotlin.StringTemplatesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725860472685</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add ProgramSandiMorse.kt">
+      <created>1725903718746</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725903718746</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +290,7 @@
     <MESSAGE value="Add FungsiAnggotapadaString.kt" />
     <MESSAGE value="Add PenerapanString.kt" />
     <MESSAGE value="Add ProgramCaesarChiper.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ProgramCaesarChiper.kt" />
+    <MESSAGE value="Add ProgramSandiMorse.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ProgramSandiMorse.kt" />
   </component>
 </project>
