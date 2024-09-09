@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramCaesarChiper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramSandiMorse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ProgramCaesarChiperKt">
+  <component name="RunManager" selected="Kotlin.ProgramSandiMorseKt">
     <configuration name="FungsiAnggotapadaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiAnggotapadaStringKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringArrayofCharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringArrayofCharacterKt" />
+    <configuration name="ProgramSandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramSandiMorseKt" />
       <module name="DasarPemogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProgramSandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.FungsiAnggotapadaStringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.StringArrayofCharacterKt" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725858290880</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add ProgramCaesarChiper.kt">
+      <created>1725860472685</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725860472685</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +283,7 @@
     <MESSAGE value="Add StringTemplates.kt" />
     <MESSAGE value="Add FungsiAnggotapadaString.kt" />
     <MESSAGE value="Add PenerapanString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanString.kt" />
+    <MESSAGE value="Add ProgramCaesarChiper.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ProgramCaesarChiper.kt" />
   </component>
 </project>
