@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="" />
+    <list default="true" id="dc33c440-0ca5-4c1a-b1cd-1d0fe2e14d83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiAnggotapadaString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
+  <component name="RunManager" selected="Kotlin.FungsiAnggotapadaStringKt">
     <configuration name="BooleanTrueOrFalseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanTrueOrFalseKt" />
       <module name="DasarPemogramanKotlin5C" />
@@ -42,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharacterCharKt" />
+    <configuration name="FungsiAnggotapadaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiAnggotapadaStringKt" />
       <module name="DasarPemogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsiAnggotapadaStringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.StringArrayofCharacterKt" />
         <item itemvalue="Kotlin.BooleanTrueOrFalseKt" />
         <item itemvalue="Kotlin.KonversiEksplisitPadaCharKt" />
-        <item itemvalue="Kotlin.CharacterCharKt" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725821688053</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add StringTemplates.kt">
+      <created>1725822025850</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725822025850</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +259,7 @@
     <MESSAGE value="Add KonversiEksplisitPadaChar.kt" />
     <MESSAGE value="Add BooleanTrueOrFalse.kt.kt" />
     <MESSAGE value="Add stringArrayofCharacter.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add stringArrayofCharacter.kt" />
+    <MESSAGE value="Add StringTemplates.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add StringTemplates.kt" />
   </component>
 </project>
